@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithmoiz&label=Profile%20views&color=0e75b6&style=flat" alt="codewithmoiz" /> </p>
 
-- 🔭 I’m currently working on React JS practice projects
+- 🔭 I’m currently working on **React-JS Practice Projects**
 
 - 🌱 I’m currently learning **React JS**
 
