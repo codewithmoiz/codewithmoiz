@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Frontend**
 
-- 📫 How to reach me **Moizsultan2022@gmail.com**
+- 📫 How to reach me **amoiz.busytech@gmail.com**
 
 - ⚡ Fun fact **I debug with a dose of humor💥**
 
